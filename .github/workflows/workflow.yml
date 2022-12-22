@@ -13,10 +13,10 @@ jobs:
         name: 'Use GitHub Actions'
         uses: actions/checkout@v2
       -
-        name: 'Use Node.js 12.x'
-        uses: actions/setup-node@v1
+        name: 'Use Node.js 16.x'
+        uses: actions/setup-node@v3
         with:
-          node-version: 12.x
+          node-version: 16
       -
         name: 'Install Package'
         run: 'npm install --global stargazed'
