@@ -1,9 +1,13 @@
 name: 'Update by stargazed'
 # This workflow runs at 00:30 everyday
-on:
+on: # rebuild any PRs and main branch changes
+  pull_request:
+    # branches: [ master ]
+  push:
+    branches:
+      - main # [ master ]
   schedule:
-    -
-      cron: '30 1 * * *'
+    - cron: "0 0 * * 0"
 
 jobs:
   build:
@@ -18,8 +22,16 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
+
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: npm-${{ hashFiles('package-lock.json') }}
+          restore-keys: npm-
       -
         name: 'Install Package'
+        if: steps.cache.outputs.cache-hit != 'true'
         run: 'npm install abhijithvijayan/stargazed'
       -
         name: 'Update Repo'
