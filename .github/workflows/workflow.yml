@@ -29,4 +29,7 @@ jobs:
         name: 'Update Repo'
         env:
           GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-        run: 'npx github:abhijithvijayan/stargazed --username  "andgar2010" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
+        run: |
+          npx stargazed -v
+          y
+          'npx github:abhijithvijayan/stargazed --username  "andgar2010" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
