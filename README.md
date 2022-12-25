@@ -94,7 +94,7 @@
 | 1 |  [clamav](https://github.com/Cisco-Talos/clamav) | ClamAV - Documentation is here: https://docs.clamav.net | Cisco-Talos | 2547 |
 | 2 |  [tvheadend](https://github.com/tvheadend/tvheadend) | Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT&amp;gt;IP and other formats through the unix pipe as input sources. | tvheadend | 2298 |
 | 3 |  [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) | waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan | nihui | 2424 |
-| 4 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 74569 |
+| 4 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 74570 |
 | 5 |  [wrk2](https://github.com/giltene/wrk2) | A constant throughput, correct latency recording variant of wrk | giltene | 3678 |
 | 6 |  [obs-move-transition](https://github.com/exeldro/obs-move-transition) | Move transition for OBS Studio | exeldro | 426 |
 | 7 |  [ijkplayer](https://github.com/bilibili/ijkplayer) | Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support. | bilibili | 30990 |
@@ -372,7 +372,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [penpot](https://github.com/penpot/penpot) | Penpot - The Open-Source design &amp; prototyping platform | penpot | 19606 |
-| 2 |  [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | tonsky | 67840 |
+| 2 |  [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | tonsky | 67841 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1526,7 +1526,7 @@
 | 1124 |  [result](https://github.com/higorlapa/result) | Result package for dart | higorlapa | 29 |
 | 1125 |  [colored_print](https://github.com/davidsdearaujo/colored_print) | This package makes it possible to use colored prints | davidsdearaujo | 6 |
 | 1126 |  [alfred](https://github.com/rknell/alfred) | A performant, expressjs like server framework with a few gadgets that make life even easier. | rknell | 450 |
-| 1127 |  [macos_ui](https://github.com/GroovinChip/macos_ui) | Flutter widgets and themes implementing the current macOS design language. | GroovinChip | 1118 |
+| 1127 |  [macos_ui](https://github.com/GroovinChip/macos_ui) | Flutter widgets and themes implementing the current macOS design language. | GroovinChip | 1119 |
 | 1128 |  [sidekick](https://github.com/fluttertools/sidekick) | A simple app to make Flutter development more delightful | fluttertools | 1104 |
 | 1129 |  [tuxin_tutorial_overlay](https://github.com/kfirufk/tuxin_tutorial_overlay) | an overlay flutter package that can be used for tutorials and walkthrough | kfirufk | 8 |
 | 1130 |  [simple_grid](https://github.com/nggepe/simple_grid) | Inspired by bootstrap , This is dynamic grid layout that you can use Like a bootstrap grid, and the size is following material UI break points. But, don&#39;t to worry you can customize your break point like here. This package purely using mediaquery, don&#39;t worry about the render. | nggepe | 9 |
@@ -1700,7 +1700,7 @@
 | 6 |  [go-ringcentral-client](https://github.com/grokify/go-ringcentral-client) | RingCentral Client SDK for Go: RingCentral Office, Engage Digital, Engage Voice | grokify | 11 |
 | 7 |  [ios](https://github.com/dunhamsteve/ios) | Utility to extract files and keychain information from iOS backups | dunhamsteve | 93 |
 | 8 |  [grpc_sample](https://github.com/thyagoluciano/grpc_sample) |  | thyagoluciano | 3 |
-| 9 |  [qrcp](https://github.com/claudiodangelis/qrcp) | :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. | claudiodangelis | 8962 |
+| 9 |  [qrcp](https://github.com/claudiodangelis/qrcp) | :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. | claudiodangelis | 8963 |
 | 10 |  [k6](https://github.com/grafana/k6) | A modern load testing tool, using Go and JavaScript - https://k6.io | grafana | 18954 |
 | 11 |  [vitess](https://github.com/vitessio/vitess) | Vitess is a database clustering system for horizontal scaling of MySQL. | vitessio | 15245 |
 | 12 |  [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide ads &amp; trackers blocking DNS server | AdguardTeam | 15167 |
@@ -1744,7 +1744,7 @@
 | 50 |  [imgproxy](https://github.com/imgproxy/imgproxy) | Fast and secure standalone server for resizing and converting remote images | imgproxy | 6772 |
 | 51 |  [esbuild](https://github.com/evanw/esbuild) | An extremely fast JavaScript and CSS bundler and minifier | evanw | 34182 |
 | 52 |  [cheat](https://github.com/cheat/cheat) | cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember. | cheat | 10247 |
-| 53 |  [fiber](https://github.com/gofiber/fiber) | ⚡️ Express inspired web framework written in Go | gofiber | 23721 |
+| 53 |  [fiber](https://github.com/gofiber/fiber) | ⚡️ Express inspired web framework written in Go | gofiber | 23722 |
 | 54 |  [caddy](https://github.com/caddyserver/caddy) | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | caddyserver | 45021 |
 | 55 |  [gogs](https://github.com/gogs/gogs) | Gogs is a painless self-hosted Git service | gogs | 41373 |
 | 56 |  [MailHog](https://github.com/mailhog/MailHog) | Web and API based SMTP testing | mailhog | 11283 |
@@ -2025,7 +2025,7 @@
 | 77 |  [Vue-Socket.io](https://github.com/MetinSeylan/Vue-Socket.io) | 😻 Socket.io implementation for Vuejs and Vuex | MetinSeylan | 3906 |
 | 78 |  [framework](https://github.com/totaljs/framework) | Node.js framework | totaljs | 4160 |
 | 79 |  [sockjs-client](https://github.com/sockjs/sockjs-client) | WebSocket emulation - Javascript client | sockjs | 8104 |
-| 80 |  [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool | louislam | 26500 |
+| 80 |  [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool | louislam | 26501 |
 | 81 |  [Algorithims](https://github.com/RohanMangroo/Algorithims) |  | RohanMangroo | 1 |
 | 82 |  [Sorting-Visualizer](https://github.com/RohanMangroo/Sorting-Visualizer) |  | RohanMangroo | 2 |
 | 83 |  [dartanalyzer-annotations-action](https://github.com/kitek/dartanalyzer-annotations-action) | Github action that creates annotations from dartanalyzer output. | kitek | 3 |
@@ -2115,7 +2115,7 @@
 | 167 |  [snapdrop](https://github.com/RobinLinus/snapdrop) | A Progressive Web App for local file sharing | RobinLinus | 14174 |
 | 168 |  [pretty-seconds](https://github.com/binarykitchen/pretty-seconds) | a very simple function to stringify any huge number of seconds. give it million seconds and it tells you how many days, hours, minutes and seconds in a pretty string. | binarykitchen | 9 |
 | 169 |  [hexo](https://github.com/hexojs/hexo) | A fast, simple &amp; powerful blog framework, powered by Node.js. | hexojs | 35882 |
-| 170 |  [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | awesome-selfhosted | 112850 |
+| 170 |  [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | awesome-selfhosted | 112851 |
 | 171 |  [nvs](https://github.com/jasongin/nvs) | Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js | jasongin | 2172 |
 | 172 |  [Adobe-React-Aug-2020](https://github.com/tkmagesh/Adobe-React-Aug-2020) |  | tkmagesh | 2 |
 | 173 |  [streetmix](https://github.com/streetmix/streetmix) | Streetmix makes it easy for people to design public spaces together. | streetmix | 595 |
@@ -2340,7 +2340,7 @@
 | 392 |  [nodejs-chat](https://github.com/AllThingsSmitty/nodejs-chat) | Chat app using Node.js and WebSockets | AllThingsSmitty | 17 |
 | 393 |  [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | :white_check_mark:  The Node.js best practices list (November 2022) | goldbergyoni | 84315 |
 | 394 |  [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | mermaid-js | 52435 |
-| 395 |  [google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) | A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets | majodev | 10748 |
+| 395 |  [google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) | A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets | majodev | 10749 |
 | 396 |  [fast-json](https://github.com/alemures/fast-json) | A lightning fast on the fly JSON parser | alemures | 78 |
 | 397 |  [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) | Vue drag-and-drop component based on Sortable.js | SortableJS | 18300 |
 | 398 |  [Sortable](https://github.com/SortableJS/Sortable) | Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required. | SortableJS | 26088 |
@@ -3109,7 +3109,7 @@
 | 25 |  [fail2ban](https://github.com/fail2ban/fail2ban) | Daemon to ban hosts that cause multiple authentication errors | fail2ban | 7730 |
 | 26 |  [Reticulum](https://github.com/markqvist/Reticulum) | The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between. | markqvist | 1022 |
 | 27 |  [waka-readme](https://github.com/athul/waka-readme) | Wakatime Weekly Metrics on your Profile Readme. | athul | 952 |
-| 28 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 74939 |
+| 28 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 74940 |
 | 29 |  [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers | Ebazhanov | 21440 |
 | 30 |  [edgedb](https://github.com/edgedb/edgedb) | A graph-relational database with declarative schema, built-in migration system, and a next-generation query language | edgedb | 9871 |
 | 31 |  [transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. | huggingface | 76787 |
@@ -3125,7 +3125,7 @@
 | 41 |  [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! | PeterL1n | 6469 |
 | 42 |  [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Google Chromium, sans integration with Google | ungoogled-software | 15761 |
 | 43 |  [openreplay](https://github.com/openreplay/openreplay) | :tv: OpenReplay is developer-friendly, open-source session replay. | openreplay | 6602 |
-| 44 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 221461 |
+| 44 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 221462 |
 | 45 |  [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions | bregman-arie | 34920 |
 | 46 |  [jina](https://github.com/jina-ai/jina) | 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native | jina-ai | 16967 |
 | 47 |  [mvt](https://github.com/mvt-project/mvt) | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. | mvt-project | 8241 |
@@ -3461,7 +3461,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [hls.js](https://github.com/video-dev/hls.js) | HLS.js is a JavaScript library that plays HLS in browsers with support for MSE. | video-dev | 12280 |
 | 2 |  [setup-node](https://github.com/actions/setup-node) | Set up your GitHub Actions workflow with a specific version of node.js | actions | 2585 |
-| 3 |  [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) | A browser extension to display ChatGPT response alongside search engine results | wong2 | 7199 |
+| 3 |  [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) | A browser extension to display ChatGPT response alongside search engine results | wong2 | 7200 |
 | 4 |  [elysia](https://github.com/elysiajs/elysia) | Fast, and friendly Bun web framework | elysiajs | 149 |
 | 5 |  [etcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards &amp; USB drives, safely and easily. | balena-io | 24532 |
 | 6 |  [unclutter](https://github.com/lindylearn/unclutter) | A modern reader mode and article library for your browser. | lindylearn | 827 |
@@ -3703,7 +3703,7 @@
 | 242 |  [graphql-typed-client](https://github.com/helios1138/graphql-typed-client) | A tool that generates a strongly typed client library for any GraphQL endpoint. The client allows writing GraphQL queries as plain JS objects (with type safety, awesome code completion experience, custom scalar type mapping, type guards and more) | helios1138 | 213 |
 | 243 |  [graphql-inspector](https://github.com/kamilkisiela/graphql-inspector) | 🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage | kamilkisiela | 1413 |
 | 244 |  [xstate](https://github.com/statelyai/xstate) | State machines and statecharts for the modern web. | statelyai | 22131 |
-| 245 |  [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. | microsoft | 45958 |
+| 245 |  [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. | microsoft | 45959 |
 | 246 |  [fullstack-tutorial](https://github.com/apollographql/fullstack-tutorial) | 🚀 The Apollo platform tutorial app | apollographql | 1209 |
 | 247 |  [metastream](https://github.com/samuelmaddock/metastream) | Watch streaming media with friends. | samuelmaddock | 2174 |
 | 248 |  [directus](https://github.com/directus/directus) | The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database. | directus | 19077 |
