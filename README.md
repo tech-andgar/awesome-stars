@@ -91,7 +91,7 @@
 ## C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [clamav](https://github.com/Cisco-Talos/clamav) | ClamAV - Documentation is here: https://docs.clamav.net | Cisco-Talos | 2547 |
+| 1 |  [clamav](https://github.com/Cisco-Talos/clamav) | ClamAV - Documentation is here: https://docs.clamav.net | Cisco-Talos | 2548 |
 | 2 |  [tvheadend](https://github.com/tvheadend/tvheadend) | Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT&amp;gt;IP and other formats through the unix pipe as input sources. | tvheadend | 2298 |
 | 3 |  [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) | waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan | nihui | 2424 |
 | 4 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 74573 |
@@ -304,7 +304,7 @@
 | 100 |  [ClickHouse](https://github.com/ClickHouse/ClickHouse) | ClickHouse® is a free analytics DBMS for big data | ClickHouse | 26520 |
 | 101 |  [diskspd](https://github.com/microsoft/diskspd) | DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Cloud Server Infrastructure Engineering teams | microsoft | 911 |
 | 102 |  [TablacusExplorer](https://github.com/tablacus/TablacusExplorer) | A tabbed file manager with Add-on support | tablacus | 732 |
-| 103 |  [mediapipe](https://github.com/google/mediapipe) | Cross-platform, customizable ML solutions for live and streaming media. | google | 19822 |
+| 103 |  [mediapipe](https://github.com/google/mediapipe) | Cross-platform, customizable ML solutions for live and streaming media. | google | 19823 |
 | 104 |  [RCube](https://github.com/ShellPuppy/RCube) | Rubik&#39;s Cube solver for very large cubes. | ShellPuppy | 39 |
 | 105 |  [calculator](https://github.com/microsoft/calculator) | Windows Calculator: A simple yet powerful calculator that ships with Windows | microsoft | 26427 |
 | 106 |  [OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO) | A color management framework for visual effects and animation. | AcademySoftwareFoundation | 1417 |
@@ -1793,7 +1793,7 @@
 | 22 |  [English-Bible](https://github.com/dtjohnso/English-Bible) | A timeline of the English Bible | dtjohnso | 6 |
 | 23 |  [all-contributors](https://github.com/all-contributors/all-contributors) | ✨ Recognize all contributors, not just the ones who push code ✨ | all-contributors | 6783 |
 | 24 |  [flutter_test_bestpractices](https://github.com/fredgrott/flutter_test_bestpractices) | flutter test best practices | fredgrott | 2 |
-| 25 |  [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) | A fast, clean, responsive Hugo theme. | adityatelange | 5108 |
+| 25 |  [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) | A fast, clean, responsive Hugo theme. | adityatelange | 5109 |
 | 26 |  [accessibility-posters](https://github.com/UKHomeOffice/accessibility-posters) |  | UKHomeOffice | 12 |
 | 27 |  [privacytools.io](https://github.com/privacytools/privacytools.io) | 🛡🛠 You are being watched. Protect your privacy against global mass surveillance. | privacytools | 3093 |
 | 28 |  [github-contributions](https://github.com/IonicaBizau/github-contributions) | :octocat: A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar. | IonicaBizau | 1324 |
@@ -2190,7 +2190,7 @@
 | 242 |  [node-pg-copy-streams-binary](https://github.com/jeromew/node-pg-copy-streams-binary) | Streams for parsing and deparsing the COPY binary format | jeromew | 8 |
 | 243 |  [node-pg-copy-streams](https://github.com/brianc/node-pg-copy-streams) | COPY FROM / COPY TO for node-postgres.  Stream from one database to another, and stuff. | brianc | 293 |
 | 244 |  [washOS](https://github.com/charliegerard/washOS) | Automatic detection of water running to trigger a countdown in the browser | charliegerard | 138 |
-| 245 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 33762 |
+| 245 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 33763 |
 | 246 |  [chalk](https://github.com/chalk/chalk) | 🖍 Terminal string styling done right | chalk | 19548 |
 | 247 |  [jsPDF](https://github.com/parallax/jsPDF) | Client-side JavaScript PDF generation for everyone. | parallax | 25696 |
 | 248 |  [deno-graphql](https://github.com/danba340/deno-graphql) |  | danba340 | 6 |
@@ -2347,7 +2347,7 @@
 | 399 |  [awesome-vscode](https://github.com/viatsko/awesome-vscode) | 🎨 A curated list of delightful VS Code packages and resources. | viatsko | 21628 |
 | 400 |  [instant-username-search](https://github.com/instantusername/instant-username-search) | ⚡ Instantly search for the availability of your username on more than 100 social media sites. | instantusername | 178 |
 | 401 |  [MoviePrint_v004](https://github.com/fakob/MoviePrint_v004) | MoviePrint \| A tool which lets you create screenshots of entire movies in an instant. | fakob | 94 |
-| 402 |  [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | :bathtub: Clean Code concepts adapted for JavaScript | ryanmcdermott | 76743 |
+| 402 |  [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | :bathtub: Clean Code concepts adapted for JavaScript | ryanmcdermott | 76744 |
 | 403 |  [slippry](https://github.com/booncon/slippry) | Responsive slider plugin for jQuery | booncon | 478 |
 | 404 |  [firechat](https://github.com/FirebaseExtended/firechat) | Real-time Chat powered by Firebase | FirebaseExtended | 2403 |
 | 405 |  [webpack-curso](https://github.com/LeonidasEsteban/webpack-curso) |  | LeonidasEsteban | 269 |
@@ -3186,7 +3186,7 @@
 | 102 |  [videofront](https://github.com/openfun/videofront) | DEPRECATED An extensible video storage, transcoding and streaming video provider (replaced by https://github.com/openfun/marsha) | openfun | 22 |
 | 103 |  [dupeguru](https://github.com/arsenetar/dupeguru) | Find duplicate files | arsenetar | 3240 |
 | 104 |  [git-big-picture](https://github.com/git-big-picture/git-big-picture) | Git — the big picture | git-big-picture | 496 |
-| 105 |  [devicon](https://github.com/devicons/devicon) | Set of icons representing programming languages, designing &amp; development tools | devicons | 6673 |
+| 105 |  [devicon](https://github.com/devicons/devicon) | Set of icons representing programming languages, designing &amp; development tools | devicons | 6674 |
 | 106 |  [inter](https://github.com/rsms/inter) | The Inter font family | rsms | 14753 |
 | 107 |  [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) | eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee | eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee | 9191 |
 | 108 |  [mackup](https://github.com/lra/mackup) | Keep your application settings in sync (OS X/Linux) | lra | 12805 |
@@ -3197,11 +3197,11 @@
 | 113 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 115999 |
 | 114 |  [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) | A cross platform front-end GUI of the popular youtube-dl written in wxPython. | MrS0m30n3 | 8660 |
 | 115 |  [punctuation](https://github.com/adamjcalhoun/punctuation) | Take a set of text and output a picture of the text | adamjcalhoun | 168 |
-| 116 |  [core](https://github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | home-assistant | 56876 |
+| 116 |  [core](https://github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | home-assistant | 56875 |
 | 117 |  [font-wonder-unit](https://github.com/wonderunit/font-wonder-unit) | Free and open source sans-serif font, brought to you by Wonder Unit. | wonderunit | 58 |
 | 118 |  [mindfulness-at-the-computer](https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer) | Helps you stay mindful of your breathing while using your computer | mindfulness-at-the-computer | 148 |
 | 119 |  [weblate](https://github.com/WeblateOrg/weblate) | Web based localization tool with tight version control integration. | WeblateOrg | 3289 |
-| 120 |  [searx](https://github.com/searx/searx) | Privacy-respecting metasearch engine | searx | 12349 |
+| 120 |  [searx](https://github.com/searx/searx) | Privacy-respecting metasearch engine | searx | 12350 |
 | 121 |  [pywit](https://github.com/wit-ai/pywit) | Python library for Wit.ai | wit-ai | 1366 |
 | 122 |  [mycli](https://github.com/dbcli/mycli) | A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. | dbcli | 10698 |
 | 123 |  [hosts](https://github.com/StevenBlack/hosts) | 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories. | StevenBlack | 22057 |
@@ -3320,7 +3320,7 @@
 | 15 |  [dotfiles](https://github.com/mathiasbynens/dotfiles) | :wrench: .files, including ~/.macos — sensible hacker defaults for macOS | mathiasbynens | 28563 |
 | 16 |  [standard-readme](https://github.com/RichardLitt/standard-readme) | A standard style for README files | RichardLitt | 5238 |
 | 17 |  [github-sync](https://github.com/repo-sync/github-sync) | ⤵️ A GitHub Action for syncing current repository with remote | repo-sync | 293 |
-| 18 |  [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) | :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt | spaceship-prompt | 17848 |
+| 18 |  [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) | :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt | spaceship-prompt | 17849 |
 | 19 |  [dynhost](https://github.com/zwindler/dynhost) | Homemade script similar to update periodically your OVH DNS via DynHost | zwindler | 15 |
 | 20 |  [flutter-precommit-hook](https://github.com/peiffer-innovations/flutter-precommit-hook) |  | peiffer-innovations | 2 |
 | 21 |  [gvm](https://github.com/moovweb/gvm) | Go Version Manager | moovweb | 8058 |
@@ -3586,7 +3586,7 @@
 | 125 |  [apps](https://github.com/dailydotdev/apps) | daily.dev application suite | dailydotdev | 381 |
 | 126 |  [simple-obs-stt](https://github.com/mmpneo/simple-obs-stt) | Speech-to-text and keyboard input captions for OBS. | mmpneo | 89 |
 | 127 |  [mobile-accessibility](https://github.com/inthepocket/mobile-accessibility) | 🤝 Mobile application to showcase usage, examples, effort and importance of accessibility support | inthepocket | 7 |
-| 128 |  [ant-design](https://github.com/ant-design/ant-design) | An enterprise-class UI design language and React UI library | ant-design | 83516 |
+| 128 |  [ant-design](https://github.com/ant-design/ant-design) | An enterprise-class UI design language and React UI library | ant-design | 83517 |
 | 129 |  [TrackJS-Node](https://github.com/TrackJs/TrackJS-Node) | TrackJS Error Monitoring agent for NodeJS | TrackJs | 26 |
 | 130 |  [winmoji](https://github.com/ryanSN/winmoji) | Emoji lookup for Windows 😉 https://www.winmoji.com https://twitter.com/winmoji | ryanSN | 80 |
 | 131 |  [js-image-carver](https://github.com/trekhleb/js-image-carver) | 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm | trekhleb | 1426 |
@@ -3694,7 +3694,7 @@
 | 233 |  [design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript) | :triangular_ruler: Design pattern implementations in TypeScript | torokmark | 4641 |
 | 234 |  [theia](https://github.com/eclipse-theia/theia) | Eclipse Theia is a cloud &amp; desktop IDE framework implemented in TypeScript. | eclipse-theia | 17671 |
 | 235 |  [serialization](https://github.com/Lona/serialization) | Convert Lona files between JSON AST and Swift source code | Lona | 3 |
-| 236 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 58206 |
+| 236 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 58207 |
 | 237 |  [TypeScript-Website](https://github.com/microsoft/TypeScript-Website) | The Website and web infrastructure for learning TypeScript | microsoft | 1724 |
 | 238 |  [restapi-jwt-ts](https://github.com/FaztWeb/restapi-jwt-ts) |  | FaztWeb | 29 |
 | 239 |  [motion](https://github.com/framer/motion) | Open source, production-ready animation and gesture library for React | framer | 16999 |
@@ -3709,7 +3709,7 @@
 | 248 |  [directus](https://github.com/directus/directus) | The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database. | directus | 19077 |
 | 249 |  [universal-language-detector](https://github.com/UnlyEd/universal-language-detector) | Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js | UnlyEd | 70 |
 | 250 |  [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) | Frontend for HospitalRun | HospitalRun | 6701 |
-| 251 |  [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | Eugeny | 41679 |
+| 251 |  [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | Eugeny | 41680 |
 | 252 |  [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) | :key: Cross-Platform Passwords &amp; Secrets Vault | buttercup | 3950 |
 | 253 |  [compodoc](https://github.com/compodoc/compodoc) | :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest &amp; Stencil application | compodoc | 3746 |
 | 254 |  [botpress](https://github.com/botpress/botpress) | 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect &amp; deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc). | botpress | 9987 |
