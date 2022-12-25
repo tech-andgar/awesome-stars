@@ -43,7 +43,7 @@ jobs:
 
       -
         name: 'Install Package'
-        run: 'yarn add https://github.com/abhijithvijayan/stargazed'
+        run: yarn add 'stargazed@https://github.com/abhijithvijayan/stargazed'
         
       -
         name: 'Update Repo'
