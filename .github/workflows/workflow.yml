@@ -33,16 +33,18 @@ jobs:
         with:
           node-version: 16
 
-      - name: Cache dependencies
-        uses: actions/cache@v3
-        with:
-          path: ~/.npm
-          key: npm-${{ hashFiles('package-lock.json') }}
-          restore-keys: npm-
+      -
+        name: 'Install corepack'
+        run: 'npm i -g corepack'
+
+      -
+        name: 'Enabled yarn 2'
+        run: 'yarn init -2'
+
       -
         name: 'Install Package'
-        if: steps.cache.outputs.cache-hit != 'true'
         run: 'yarn add https://github.com/abhijithvijayan/stargazed'
+        
       -
         name: 'Update Repo'
         env:
