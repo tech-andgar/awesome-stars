@@ -17,15 +17,6 @@ jobs:
       -
         name: 'Use GitHub Actions'
         uses: actions/checkout@v2
-      -
-        uses: xhyrom/setup-bun@v0.1.8
-        with:
-          bun-version: latest
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Try bun
-        run: |
-          bun --version
           
       -
         name: 'Use Node.js 16.x'
