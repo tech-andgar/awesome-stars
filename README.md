@@ -1612,7 +1612,7 @@
 | 1210 |  [flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) | TodoMVC for Flutter | brianegan | 8217 |
 | 1211 |  [E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) |  | abuanwar072 | 3147 |
 | 1212 |  [Parse-SDK-Flutter](https://github.com/parse-community/Parse-SDK-Flutter) | The Dart/Flutter SDK for Parse Platform | parse-community | 514 |
-| 1213 |  [flutter_showcaseview](https://github.com/SimformSolutionsPvtLtd/flutter_showcaseview) | Flutter plugin that allows you to showcase your features on flutter application. 👌🔝🎉 | SimformSolutionsPvtLtd | 1121 |
+| 1213 |  [flutter_showcaseview](https://github.com/SimformSolutionsPvtLtd/flutter_showcaseview) | Flutter plugin that allows you to showcase your features on flutter application. 👌🔝🎉 | SimformSolutionsPvtLtd | 1122 |
 | 1214 |  [flutterfire](https://github.com/firebase/flutterfire) | 🔥 A collection of Firebase plugins for Flutter apps. | firebase | 7341 |
 | 1215 |  [fluent_query_builder](https://github.com/insinfo/fluent_query_builder) | A dart library that allows you to execute SQL queries in the PostgreSQL database in a fluent way, is very easy to execute. | insinfo | 29 |
 | 1216 |  [pushnotification_flutter](https://github.com/lvaldivia/pushnotification_flutter) |  | lvaldivia | 3 |
@@ -2072,7 +2072,7 @@
 | 124 |  [fullstack-javascript-architecture](https://github.com/atulmy/fullstack-javascript-architecture) | ✍️  Opinionated project architecture for Full-Stack JavaScript Applications. | atulmy | 628 |
 | 125 |  [vsts-flutter-tasks](https://github.com/aloisdeniel/vsts-flutter-tasks) | Flutter build tasks for Azure DevOps Pipelines/TFS. | aloisdeniel | 106 |
 | 126 |  [single-spa](https://github.com/single-spa/single-spa) | The router for easy microfrontends | single-spa | 11967 |
-| 127 |  [Lepton](https://github.com/hackjutsu/Lepton) | 💻     Democratizing Snippet Management (macOS/Win/Linux) | hackjutsu | 9710 |
+| 127 |  [Lepton](https://github.com/hackjutsu/Lepton) | 💻     Democratizing Snippet Management (macOS/Win/Linux) | hackjutsu | 9709 |
 | 128 |  [v4](https://github.com/bchiang7/v4) | Fourth iteration of my personal website built with Gatsby | bchiang7 | 5667 |
 | 129 |  [undercover](https://github.com/a7ul/undercover) | Store your environment variables and secrets in git safely. | a7ul | 14 |
 | 130 |  [set-partition](https://github.com/computational-combinatorics/set-partition) | :bento: Set partition algorithms for JavaScript | computational-combinatorics | 6 |
@@ -2870,7 +2870,7 @@
 | 218 |  [awesome-graphql](https://github.com/chentsulin/awesome-graphql) | Awesome list of GraphQL | chentsulin | 13782 |
 | 219 |  [opencollective](https://github.com/opencollective/opencollective) | We&#39;re tracking all our Issues, RFCs and a few other documents in this repository. | opencollective | 1680 |
 | 220 |  [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) | An ultra-simplified explanation to design patterns | kamranahmedse | 35639 |
-| 221 |  [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials | practical-tutorials | 84291 |
+| 221 |  [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials | practical-tutorials | 84292 |
 | 222 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 85396 |
 | 223 |  [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | binhnguyennus | 42506 |
 | 224 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 123036 |
@@ -3109,7 +3109,7 @@
 | 25 |  [fail2ban](https://github.com/fail2ban/fail2ban) | Daemon to ban hosts that cause multiple authentication errors | fail2ban | 7730 |
 | 26 |  [Reticulum](https://github.com/markqvist/Reticulum) | The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between. | markqvist | 1022 |
 | 27 |  [waka-readme](https://github.com/athul/waka-readme) | Wakatime Weekly Metrics on your Profile Readme. | athul | 952 |
-| 28 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 74940 |
+| 28 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 74941 |
 | 29 |  [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers | Ebazhanov | 21440 |
 | 30 |  [edgedb](https://github.com/edgedb/edgedb) | A graph-relational database with declarative schema, built-in migration system, and a next-generation query language | edgedb | 9871 |
 | 31 |  [transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. | huggingface | 76787 |
@@ -3148,7 +3148,7 @@
 | 64 |  [youtube-dl](https://github.com/lrvick/youtube-dl) | RIAA: Please go die in a fire. | lrvick | 626 |
 | 65 |  [not-on-my-shift](https://github.com/socram8888/not-on-my-shift) | Not on my shift! domain block list | socram8888 | 24 |
 | 66 |  [openeducat_erp](https://github.com/openeducat/openeducat_erp) | Comprehensive Open Source ERP for Educational Institutes | openeducat | 454 |
-| 67 |  [apprise](https://github.com/caronc/apprise) | Apprise - Push Notifications that work with just about every platform! | caronc | 7042 |
+| 67 |  [apprise](https://github.com/caronc/apprise) | Apprise - Push Notifications that work with just about every platform! | caronc | 7043 |
 | 68 |  [fairseq](https://github.com/facebookresearch/fairseq) | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. | facebookresearch | 20396 |
 | 69 |  [python-cheatsheet](https://github.com/gto76/python-cheatsheet) | Comprehensive Python Cheatsheet | gto76 | 30885 |
 | 70 |  [diagrams](https://github.com/mingrammer/diagrams) | :art: Diagram as Code for prototyping cloud system architectures | mingrammer | 27495 |
@@ -3753,7 +3753,7 @@
 | 292 |  [realworld](https://github.com/gothinkster/realworld) | &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | gothinkster | 71136 |
 | 293 |  [autocomplete](https://github.com/algolia/autocomplete) | 🔮 Fast and full-featured autocomplete library | algolia | 2298 |
 | 294 |  [ngx-admin](https://github.com/akveo/ngx-admin) | Customizable admin dashboard template based on Angular 10+ | akveo | 24137 |
-| 295 |  [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free. | freeCodeCamp | 358556 |
+| 295 |  [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free. | freeCodeCamp | 358557 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -3843,7 +3843,7 @@
 ## Zig
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. | oven-sh | 36968 |
+| 1 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. | oven-sh | 36969 |
 
 **[⬆ Back to Index](#-contents)**
 
