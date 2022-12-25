@@ -3,7 +3,7 @@ name: 'Update by stargazed'
 on:
   schedule:
     -
-      cron: '30 0 * * *'
+      cron: '30 1 * * *'
 jobs:
   build:
     name: 'stargazed update'
@@ -19,7 +19,7 @@ jobs:
           node-version: 16
       -
         name: 'Install Package'
-        run: 'npm install --global stargazed'
+        run: 'npm install --global abhijithvijayan/stargazed'
       -
         name: 'Update Repo'
         env:
