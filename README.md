@@ -94,7 +94,7 @@
 | 1 |  [clamav](https://github.com/Cisco-Talos/clamav) | ClamAV - Documentation is here: https://docs.clamav.net | Cisco-Talos | 2547 |
 | 2 |  [tvheadend](https://github.com/tvheadend/tvheadend) | Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT&amp;gt;IP and other formats through the unix pipe as input sources. | tvheadend | 2298 |
 | 3 |  [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) | waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan | nihui | 2424 |
-| 4 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 74567 |
+| 4 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 74569 |
 | 5 |  [wrk2](https://github.com/giltene/wrk2) | A constant throughput, correct latency recording variant of wrk | giltene | 3678 |
 | 6 |  [obs-move-transition](https://github.com/exeldro/obs-move-transition) | Move transition for OBS Studio | exeldro | 426 |
 | 7 |  [ijkplayer](https://github.com/bilibili/ijkplayer) | Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support. | bilibili | 30990 |
@@ -167,7 +167,7 @@
 | 23 |  [Avalonia](https://github.com/AvaloniaUI/Avalonia) | A cross-platform UI framework for .NET | AvaloniaUI | 16339 |
 | 24 |  [patchfluent](https://github.com/builtbybel/patchfluent) | 💧 🦄 Customize Windows 10 Updates | builtbybel | 167 |
 | 25 |  [privatezilla](https://github.com/builtbybel/privatezilla) | 👀👮🐢🔥Performs a privacy &amp; security check of Windows 10 | builtbybel | 2805 |
-| 26 |  [DS4Windows](https://github.com/Ryochan7/DS4Windows) | Like those other ds4tools, but sexier | Ryochan7 | 5605 |
+| 26 |  [DS4Windows](https://github.com/Ryochan7/DS4Windows) | Like those other ds4tools, but sexier | Ryochan7 | 5606 |
 | 27 |  [Files](https://github.com/files-community/Files) | Building the best File Manager for Windows | files-community | 25681 |
 | 28 |  [FilterLists](https://github.com/collinbarrett/FilterLists) | :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances. | collinbarrett | 997 |
 | 29 |  [FileConverter](https://github.com/Tichau/FileConverter) | File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer. | Tichau | 2139 |
@@ -298,7 +298,7 @@
 | 94 |  [webcamoid](https://github.com/webcamoid/webcamoid) | Webcamoid is a full featured and multiplatform webcam suite. | webcamoid | 1920 |
 | 95 |  [DeepSpeech](https://github.com/mozilla/DeepSpeech) | DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. | mozilla | 20762 |
 | 96 |  [uWebSockets](https://github.com/uNetworking/uWebSockets) | Simple, secure &amp; standards compliant web server for the most demanding of applications | uNetworking | 15001 |
-| 97 |  [qView](https://github.com/jurplel/qView) | Practical and minimal image viewer | jurplel | 1083 |
+| 97 |  [qView](https://github.com/jurplel/qView) | Practical and minimal image viewer | jurplel | 1084 |
 | 98 |  [PowerToys](https://github.com/jyuwono/PowerToys) | Windows system utilities to maximize productivity | jyuwono | 70 |
 | 99 |  [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) | Sourcetrail - free and open-source interactive source explorer | CoatiSoftware | 13141 |
 | 100 |  [ClickHouse](https://github.com/ClickHouse/ClickHouse) | ClickHouse® is a free analytics DBMS for big data | ClickHouse | 26520 |
@@ -361,7 +361,7 @@
 | 32 |  [iziToast](https://github.com/marcelodolza/iziToast) | Elegant, responsive, flexible and lightweight notification plugin with no dependencies. | marcelodolza | 2457 |
 | 33 |  [apex-fontawesome5](https://github.com/vincentmorneau/apex-fontawesome5) | A guide to get Font Awesome 5 Pro in your APEX app | vincentmorneau | 11 |
 | 34 |  [emoji-awesome](https://github.com/ziishaned/emoji-awesome) | Cross platform, easy to use, no-javascript solution for the emoji awesomeness | ziishaned | 321 |
-| 35 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more | ryanoasis | 40445 |
+| 35 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more | ryanoasis | 40447 |
 | 36 |  [Java4Kids](https://github.com/yfain/Java4Kids) | This is a repository for my book Java for Kids. | yfain | 47 |
 | 37 |  [ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) | This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts! | ProgrammingFonts | 2161 |
 | 38 |  [pushy-buttons](https://github.com/iRaul/pushy-buttons) | 👇 CSS Pressable 3D Buttons | iRaul | 337 |
@@ -677,7 +677,7 @@
 | 275 |  [clean_architecture_folders](https://github.com/MaximilianFlechtner/clean_architecture_folders) |  | MaximilianFlechtner | 4 |
 | 276 |  [auto_route_library](https://github.com/Milad-Akarie/auto_route_library) | Flutter route generator | Milad-Akarie | 1176 |
 | 277 |  [network_inspector](https://github.com/Meruya-Techhnology/network_inspector) | Flutter network inspector package | Meruya-Techhnology | 7 |
-| 278 |  [dart_frog](https://github.com/VeryGoodOpenSource/dart_frog) | A fast, minimalistic backend framework for Dart 🎯 | VeryGoodOpenSource | 1033 |
+| 278 |  [dart_frog](https://github.com/VeryGoodOpenSource/dart_frog) | A fast, minimalistic backend framework for Dart 🎯 | VeryGoodOpenSource | 1034 |
 | 279 |  [sensor_image_demo](https://github.com/ersanKolay/sensor_image_demo) | Gyroscope-based Parallax Effect | ersanKolay | 310 |
 | 280 |  [software](https://github.com/ubuntu-flutter-community/software) | Software App for Ubuntu made with Flutter 🧡 💙 | ubuntu-flutter-community | 289 |
 | 281 |  [rapyd_checkout](https://github.com/sbis04/rapyd_checkout) | A minimalistic story writing and publishing platform. | sbis04 | 7 |
@@ -1161,7 +1161,7 @@
 | 759 |  [fixed](https://github.com/onepub-dev/fixed) | A dart implementation of fixed precision numbers. | onepub-dev | 6 |
 | 760 |  [dart-decimal](https://github.com/a14n/dart-decimal) |  | a14n | 146 |
 | 761 |  [scrapy.dart](https://github.com/sachaarbonel/scrapy.dart) | Scrapy, a fast high-level web crawling &amp; scraping framework for dart and Flutter | sachaarbonel | 48 |
-| 762 |  [walletconnect-dart-sdk](https://github.com/RootSoft/walletconnect-dart-sdk) | Open protocol for connecting dApps to mobile wallets with QR code scanning or deep linking. | RootSoft | 87 |
+| 762 |  [walletconnect-dart-sdk](https://github.com/RootSoft/walletconnect-dart-sdk) | Open protocol for connecting dApps to mobile wallets with QR code scanning or deep linking. | RootSoft | 86 |
 | 763 |  [flutter_launcher_icons](https://github.com/fluttercommunity/flutter_launcher_icons) | Flutter Launcher Icons - A package which simplifies the task of updating your Flutter app&#39;s launcher icon. Fully flexible, allowing you to choose what platform you wish to update the launcher icon for and if you want, the option to keep your old launcher icon in case you want to revert back sometime in the future. Maintainer: @MarkOSullivan94 | fluttercommunity | 1683 |
 | 764 |  [SeatPickerFlow](https://github.com/herodotdigital/SeatPickerFlow) | A simple Flutter implementation of Jarek Maćków design flow from dribble. | herodotdigital | 12 |
 | 765 |  [SnakeBottomNavigationBar](https://github.com/herodotdigital/SnakeBottomNavigationBar) |  | herodotdigital | 194 |
@@ -1435,7 +1435,7 @@
 | 1033 |  [universal_io](https://github.com/dint-dev/universal_io) | Cross-platform &#39;dart:io&#39;, including browser-compatible HttpClient. | dint-dev | 68 |
 | 1034 |  [universal_html](https://github.com/dint-dev/universal_html) | Cross-platform &#39;dart:html&#39;. | dint-dev | 138 |
 | 1035 |  [data_table_2](https://github.com/maxim-saplin/data_table_2) | In-place substitute for Flutter&#39;s DataTable and PaginatedDataTable with fixed/sticky header and extra features | maxim-saplin | 118 |
-| 1036 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | flutter | 147723 |
+| 1036 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | flutter | 147724 |
 | 1037 |  [flutter-prince-of-versions](https://github.com/infinum/flutter-prince-of-versions) | Library used for easier versioning of your applications, allowing you to prompt your users to update the app to the newest version | infinum | 5 |
 | 1038 |  [floggy](https://github.com/infinum/floggy) | Customizable logger for dart and flutter applications. | infinum | 84 |
 | 1039 |  [flutter_web_spa_sample](https://github.com/maxim-saplin/flutter_web_spa_sample) | Trying out Flutter for desktop Web app development as an alternative to SPA frameworks (such as React and Angular) by recreating one of the pages of an existing CV Management web app | maxim-saplin | 20 |
@@ -1646,7 +1646,7 @@
 | 1244 |  [list_animation](https://github.com/davidsdearaujo/list_animation) | Desafio proposto pela equipe do canal https://web.telegram.org/#/im?p=@flutterando_desafios | davidsdearaujo | 4 |
 | 1245 |  [AFWidgets](https://github.com/axilesoft/AFWidgets) | May be some cool Flutter Widgets. (Flutter study) | axilesoft | 34 |
 | 1246 |  [animated_bottombar_flutter](https://github.com/wiltonribeiro/animated_bottombar_flutter) | Flutter component concept created with Flutter using Animations, Clip Path, Transform and Stream&#39;s proprieties. | wiltonribeiro | 174 |
-| 1247 |  [awesome-flutter](https://github.com/Solido/awesome-flutter) | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. | Solido | 44543 |
+| 1247 |  [awesome-flutter](https://github.com/Solido/awesome-flutter) | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. | Solido | 44544 |
 | 1248 |  [flutter-ui-nice](https://github.com/FlutterOpen/flutter-ui-nice) | More than 130+ pages in this beautiful app and more than 45 developers has contributed to it. | FlutterOpen | 3346 |
 | 1249 |  [Flutter-UI-Kit](https://github.com/iampawan/Flutter-UI-Kit) | Flutter app for collection of UI in a UIKit | iampawan | 5973 |
 | 1250 |  [flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges) | Updated for Flutter 3.x ** 100+ Professional UI implementations with Code in Flutter. Available in Android, iOS, Linux and Web | lohanidamodar | 3970 |
@@ -1702,7 +1702,7 @@
 | 8 |  [grpc_sample](https://github.com/thyagoluciano/grpc_sample) |  | thyagoluciano | 3 |
 | 9 |  [qrcp](https://github.com/claudiodangelis/qrcp) | :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. | claudiodangelis | 8962 |
 | 10 |  [k6](https://github.com/grafana/k6) | A modern load testing tool, using Go and JavaScript - https://k6.io | grafana | 18954 |
-| 11 |  [vitess](https://github.com/vitessio/vitess) | Vitess is a database clustering system for horizontal scaling of MySQL. | vitessio | 15244 |
+| 11 |  [vitess](https://github.com/vitessio/vitess) | Vitess is a database clustering system for horizontal scaling of MySQL. | vitessio | 15245 |
 | 12 |  [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide ads &amp; trackers blocking DNS server | AdguardTeam | 15167 |
 | 13 |  [dagger](https://github.com/dagger/dagger) | A programmable CI/CD engine that runs your pipelines in containers | dagger | 7283 |
 | 14 |  [zinc](https://github.com/zinclabs/zinc) | ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. | zinclabs | 12924 |
@@ -1749,7 +1749,7 @@
 | 55 |  [gogs](https://github.com/gogs/gogs) | Gogs is a painless self-hosted Git service | gogs | 41373 |
 | 56 |  [MailHog](https://github.com/mailhog/MailHog) | Web and API based SMTP testing | mailhog | 11283 |
 | 57 |  [fzf](https://github.com/junegunn/fzf) | :cherry_blossom: A command-line fuzzy finder | junegunn | 48865 |
-| 58 |  [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands | jesseduffield | 31639 |
+| 58 |  [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands | jesseduffield | 31640 |
 | 59 |  [nakama](https://github.com/heroiclabs/nakama) | Distributed server for social and realtime games and apps. | heroiclabs | 6593 |
 | 60 |  [nvm-windows](https://github.com/coreybutler/nvm-windows) | A node.js version management utility for Windows. Ironically written in Go. | coreybutler | 24932 |
 | 61 |  [battery-historian](https://github.com/google/battery-historian) | Battery Historian is a tool to analyze battery consumers using Android &#34;bugreport&#34; files. | google | 5150 |
@@ -1759,8 +1759,8 @@
 | 65 |  [cointop](https://github.com/cointop-sh/cointop) | A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 | cointop-sh | 3465 |
 | 66 |  [cells](https://github.com/pydio/cells) | Future-proof content collaboration platform | pydio | 1393 |
 | 67 |  [transfer.sh](https://github.com/dutchcoders/transfer.sh) | Easy and fast file sharing from the command-line. | dutchcoders | 13545 |
-| 68 |  [gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea, painless self-hosted git service | go-gitea | 33883 |
-| 69 |  [wtf](https://github.com/wtfutil/wtf) | The personal information dashboard for your terminal | wtfutil | 14358 |
+| 68 |  [gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea, painless self-hosted git service | go-gitea | 33884 |
+| 69 |  [wtf](https://github.com/wtfutil/wtf) | The personal information dashboard for your terminal | wtfutil | 14357 |
 | 70 |  [portainer](https://github.com/portainer/portainer) | Making Docker and Kubernetes management easy. | portainer | 24045 |
 | 71 |  [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) | Block spying and tracking on Windows | crazy-max | 3583 |
 
@@ -1849,7 +1849,7 @@
 | 78 |  [pnotify](https://github.com/sciactive/pnotify) | Beautiful JavaScript notifications with Web Notifications support. | sciactive | 3633 |
 | 79 |  [html](https://github.com/whatwg/html) | HTML Standard | whatwg | 6313 |
 | 80 |  [bootstrap-magic](https://github.com/pikock/bootstrap-magic) | Bootstrap themes generator made with AngularJS | pikock | 1796 |
-| 81 |  [tabler](https://github.com/tabler/tabler) | Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap | tabler | 32426 |
+| 81 |  [tabler](https://github.com/tabler/tabler) | Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap | tabler | 32427 |
 | 82 |  [styleguide](https://github.com/google/styleguide) | Style guides for Google-originated open-source projects | google | 32455 |
 | 83 |  [SQLInjectionWiki](https://github.com/NetSPI/SQLInjectionWiki) | A wiki focusing on aggregating and documenting various SQL injection methods | NetSPI | 690 |
 | 84 |  [javascript-patterns](https://github.com/shichuan/javascript-patterns) | JavaScript Design Patterns | shichuan | 9301 |
@@ -1965,12 +1965,12 @@
 | 17 |  [bot-whatsapp](https://github.com/codigoencasa/bot-whatsapp) | Funcionando 📅 NOV 2022 / Trabajando en la V2 proximamente | codigoencasa | 911 |
 | 18 |  [action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) | A GitHub Action that ensures that your PR title matches the Conventional Commits spec. | amannn | 486 |
 | 19 |  [design](https://github.com/primer/design) | Primer Design Guidelines | primer | 261 |
-| 20 |  [daedalOS](https://github.com/DustinBrett/daedalOS) | Desktop environment in the browser | DustinBrett | 5919 |
+| 20 |  [daedalOS](https://github.com/DustinBrett/daedalOS) | Desktop environment in the browser | DustinBrett | 5920 |
 | 21 |  [flutter-box-shadow-generator](https://github.com/jeronasiedu/flutter-box-shadow-generator) | Find beautiful flutter box-shadows | jeronasiedu | 3 |
 | 22 |  [autocannon](https://github.com/mcollina/autocannon) | fast HTTP/1.1 benchmarking tool written in Node.js | mcollina | 6552 |
 | 23 |  [svgo](https://github.com/svg/svgo) | ⚙️ Node.js tool for optimizing SVG files | svg | 18671 |
 | 24 |  [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | Easily manage the brightness of your monitors in Windows from the system tray | xanderfrangos | 2582 |
-| 25 |  [wtfjs](https://github.com/denysdovhan/wtfjs) | 🤪 A list of funny and tricky JavaScript examples | denysdovhan | 29525 |
+| 25 |  [wtfjs](https://github.com/denysdovhan/wtfjs) | 🤪 A list of funny and tricky JavaScript examples | denysdovhan | 29526 |
 | 26 |  [is-online](https://github.com/sindresorhus/is-online) | Check if the internet connection is up | sindresorhus | 1130 |
 | 27 |  [animated-curves](https://github.com/syncsynchalt/animated-curves) | An animated visualization of elliptic curve cryptography | syncsynchalt | 65 |
 | 28 |  [lazy-load-xt](https://github.com/ressio/lazy-load-xt) | Lazy load XT is a jQuery plugin for images, videos and other media | ressio | 1374 |
@@ -2025,7 +2025,7 @@
 | 77 |  [Vue-Socket.io](https://github.com/MetinSeylan/Vue-Socket.io) | 😻 Socket.io implementation for Vuejs and Vuex | MetinSeylan | 3906 |
 | 78 |  [framework](https://github.com/totaljs/framework) | Node.js framework | totaljs | 4160 |
 | 79 |  [sockjs-client](https://github.com/sockjs/sockjs-client) | WebSocket emulation - Javascript client | sockjs | 8104 |
-| 80 |  [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool | louislam | 26496 |
+| 80 |  [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool | louislam | 26500 |
 | 81 |  [Algorithims](https://github.com/RohanMangroo/Algorithims) |  | RohanMangroo | 1 |
 | 82 |  [Sorting-Visualizer](https://github.com/RohanMangroo/Sorting-Visualizer) |  | RohanMangroo | 2 |
 | 83 |  [dartanalyzer-annotations-action](https://github.com/kitek/dartanalyzer-annotations-action) | Github action that creates annotations from dartanalyzer output. | kitek | 3 |
@@ -2040,7 +2040,7 @@
 | 92 |  [Azure-Readiness-Checklist](https://github.com/ghostinthewires/Azure-Readiness-Checklist) | This checklist is your guide to the best practices for deploying secure, scalable, and highly available infrastructure in Azure. Before you go live, go through each item, and make sure you haven&#39;t missed anything important! | ghostinthewires | 477 |
 | 93 |  [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) | A curated list of high quality coding style conventions and standards. | Kristories | 8423 |
 | 94 |  [cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) | 📗 How to write cross-platform Node.js code | ehmicky | 1306 |
-| 95 |  [stream-detector](https://github.com/rowrawer/stream-detector) | A Firefox addon for keeping track of manifests used by various streaming protocols and downloading media files. | rowrawer | 451 |
+| 95 |  [stream-detector](https://github.com/rowrawer/stream-detector) | A Firefox addon for keeping track of manifests used by various streaming protocols and downloading media files. | rowrawer | 452 |
 | 96 |  [node-crypto-examples](https://github.com/fireship-io/node-crypto-examples) | 7 Useful Examples of Cryptography in Node.js | fireship-io | 328 |
 | 97 |  [spreed](https://github.com/nextcloud/spreed) | 🗨️ Nextcloud Talk – chat, video &amp; audio calls for Nextcloud | nextcloud | 1318 |
 | 98 |  [ui-snippets](https://github.com/emilkowalski/ui-snippets) | A collection of UI Snippets. | emilkowalski | 1983 |
@@ -2085,7 +2085,7 @@
 | 137 |  [Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | agalwood | 34911 |
 | 138 |  [nextjs-headless-wordpress](https://github.com/imranhsayed/nextjs-headless-wordpress) | 🔥 Nextjs Headless WordPress | imranhsayed | 471 |
 | 139 |  [self-hosted-studio-example](https://github.com/sanity-io/self-hosted-studio-example) | Example of how to serve a built Sanity Studio using node.js | sanity-io | 17 |
-| 140 |  [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer | microsoft | 61809 |
+| 140 |  [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer | microsoft | 61811 |
 | 141 |  [emoji-shortcodes-for-markdown](https://github.com/nomanoff/emoji-shortcodes-for-markdown) | 1000+ emoji shortcodes for Markdown, GitHub, Campfire, Slack, Discord and more... | nomanoff | 53 |
 | 142 |  [Emoji-Log](https://github.com/ahmadawais/Emoji-Log) | Emoji-Log — An Emoji Git commit log messages spec standard. [  📦👌🐛📖🚀🤖 ‼️] | ahmadawais | 813 |
 | 143 |  [natural](https://github.com/jesusvilla/natural) | Fastest Framework for NodeJS. Written in pure ES6+ | jesusvilla | 43 |
@@ -2115,7 +2115,7 @@
 | 167 |  [snapdrop](https://github.com/RobinLinus/snapdrop) | A Progressive Web App for local file sharing | RobinLinus | 14174 |
 | 168 |  [pretty-seconds](https://github.com/binarykitchen/pretty-seconds) | a very simple function to stringify any huge number of seconds. give it million seconds and it tells you how many days, hours, minutes and seconds in a pretty string. | binarykitchen | 9 |
 | 169 |  [hexo](https://github.com/hexojs/hexo) | A fast, simple &amp; powerful blog framework, powered by Node.js. | hexojs | 35882 |
-| 170 |  [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | awesome-selfhosted | 112849 |
+| 170 |  [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | awesome-selfhosted | 112850 |
 | 171 |  [nvs](https://github.com/jasongin/nvs) | Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js | jasongin | 2172 |
 | 172 |  [Adobe-React-Aug-2020](https://github.com/tkmagesh/Adobe-React-Aug-2020) |  | tkmagesh | 2 |
 | 173 |  [streetmix](https://github.com/streetmix/streetmix) | Streetmix makes it easy for people to design public spaces together. | streetmix | 595 |
@@ -2138,7 +2138,7 @@
 | 190 |  [vanilla-todo](https://github.com/morris/vanilla-todo) | A case study on viable techniques for vanilla web development. | morris | 985 |
 | 191 |  [web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) | 🖥🔋Web Extension starter to build &#34;Write Once Run on Any Browser&#34; extension | abhijithvijayan | 1621 |
 | 192 |  [localbase](https://github.com/dannyconnell/localbase) | A Firebase-Style Database ... Offline! | dannyconnell | 518 |
-| 193 |  [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | Docker container for managing Nginx proxy hosts with a simple, powerful interface | NginxProxyManager | 10517 |
+| 193 |  [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | Docker container for managing Nginx proxy hosts with a simple, powerful interface | NginxProxyManager | 10521 |
 | 194 |  [busboy](https://github.com/mscdex/busboy) | A streaming parser for HTML form data for node.js | mscdex | 2509 |
 | 195 |  [handwritten.js](https://github.com/alias-rahil/handwritten.js) | Convert typed text to realistic handwriting! | alias-rahil | 1864 |
 | 196 |  [parallax-effect](https://github.com/munrocket/parallax-effect) | 🤹🏻‍♂️ Parallax effect in javascript using face tracking. An immersive view in 3d with webcam. | munrocket | 301 |
@@ -2278,10 +2278,10 @@
 | 330 |  [grant](https://github.com/simov/grant) | OAuth Proxy | simov | 3769 |
 | 331 |  [colorbook](https://github.com/liyasthomas/colorbook) | 🎨 Color schemes for UI design - Optimized for foreground, background, border, etc. https://liyasthomas.github.io/colorbook | liyasthomas | 182 |
 | 332 |  [mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) | A real-time 3D digital map of Tokyo&#39;s public transport system | nagix | 2010 |
-| 333 |  [strapi](https://github.com/strapi/strapi) | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first. | strapi | 50728 |
+| 333 |  [strapi](https://github.com/strapi/strapi) | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first. | strapi | 50729 |
 | 334 |  [apple-auth](https://github.com/ananay/apple-auth) | Sign in with Apple for Node.js | ananay | 279 |
 | 335 |  [apple-auth-example](https://github.com/ananay/apple-auth-example) | Sign in with Apple example | ananay | 27 |
-| 336 |  [medium-unlimited](https://github.com/manojVivek/medium-unlimited) | A browser extension to read medium.com articles for free without membership. | manojVivek | 5070 |
+| 336 |  [medium-unlimited](https://github.com/manojVivek/medium-unlimited) | A browser extension to read medium.com articles for free without membership. | manojVivek | 5071 |
 | 337 |  [parse-server](https://github.com/parse-community/parse-server) | Parse Server for Node.js / Express | parse-community | 19920 |
 | 338 |  [node-apn](https://github.com/node-apn/node-apn) | :calling: Apple Push Notification module for Node.js | node-apn | 4320 |
 | 339 |  [node-apn](https://github.com/parse-community/node-apn) | Apple Push Notification module for Node.js | parse-community | 136 |
@@ -2310,7 +2310,7 @@
 | 362 |  [pouchdb](https://github.com/pouchdb/pouchdb) | :koala: - PouchDB is a pocket-sized database. | pouchdb | 15407 |
 | 363 |  [quasar-feathers-tutorial](https://github.com/claustres/quasar-feathers-tutorial) | Combining the power of Quasar and Feathers to build real-time web apps | claustres | 87 |
 | 364 |  [graphql-joker](https://github.com/victorteokw/graphql-joker) | GraphQL Joker is the ultimate GraphQL scaffolding tool. | victorteokw | 73 |
-| 365 |  [apexcharts.js](https://github.com/apexcharts/apexcharts.js) | 📊 Interactive JavaScript Charts built on SVG | apexcharts | 12102 |
+| 365 |  [apexcharts.js](https://github.com/apexcharts/apexcharts.js) | 📊 Interactive JavaScript Charts built on SVG | apexcharts | 12103 |
 | 366 |  [bundlephobia](https://github.com/pastelsky/bundlephobia) | 🏋️ Find out the cost of adding a new frontend dependency to your project | pastelsky | 7599 |
 | 367 |  [vue-introjs](https://github.com/alex-oleshkevich/vue-introjs) | intro.js bindings for Vue. | alex-oleshkevich | 299 |
 | 368 |  [intro.js](https://github.com/usablica/intro.js) | Lightweight, user-friendly onboarding tour library | usablica | 21727 |
@@ -2338,16 +2338,16 @@
 | 390 |  [30_seconds_of_knowledge](https://github.com/petrovicstefanrs/30_seconds_of_knowledge) | Google Chrome Extension that lets you gain new developer skills, every time you open a New Tab. | petrovicstefanrs | 872 |
 | 391 |  [front-end-handbook](https://github.com/FrontendMasters/front-end-handbook) | The resources and tools for learning about the practice of front-end development. | FrontendMasters | 1719 |
 | 392 |  [nodejs-chat](https://github.com/AllThingsSmitty/nodejs-chat) | Chat app using Node.js and WebSockets | AllThingsSmitty | 17 |
-| 393 |  [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | :white_check_mark:  The Node.js best practices list (November 2022) | goldbergyoni | 84314 |
+| 393 |  [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | :white_check_mark:  The Node.js best practices list (November 2022) | goldbergyoni | 84315 |
 | 394 |  [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | mermaid-js | 52435 |
-| 395 |  [google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) | A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets | majodev | 10747 |
+| 395 |  [google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) | A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets | majodev | 10748 |
 | 396 |  [fast-json](https://github.com/alemures/fast-json) | A lightning fast on the fly JSON parser | alemures | 78 |
 | 397 |  [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) | Vue drag-and-drop component based on Sortable.js | SortableJS | 18300 |
 | 398 |  [Sortable](https://github.com/SortableJS/Sortable) | Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required. | SortableJS | 26088 |
 | 399 |  [awesome-vscode](https://github.com/viatsko/awesome-vscode) | 🎨 A curated list of delightful VS Code packages and resources. | viatsko | 21627 |
 | 400 |  [instant-username-search](https://github.com/instantusername/instant-username-search) | ⚡ Instantly search for the availability of your username on more than 100 social media sites. | instantusername | 178 |
 | 401 |  [MoviePrint_v004](https://github.com/fakob/MoviePrint_v004) | MoviePrint \| A tool which lets you create screenshots of entire movies in an instant. | fakob | 94 |
-| 402 |  [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | :bathtub: Clean Code concepts adapted for JavaScript | ryanmcdermott | 76739 |
+| 402 |  [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | :bathtub: Clean Code concepts adapted for JavaScript | ryanmcdermott | 76742 |
 | 403 |  [slippry](https://github.com/booncon/slippry) | Responsive slider plugin for jQuery | booncon | 478 |
 | 404 |  [firechat](https://github.com/FirebaseExtended/firechat) | Real-time Chat powered by Firebase | FirebaseExtended | 2403 |
 | 405 |  [webpack-curso](https://github.com/LeonidasEsteban/webpack-curso) |  | LeonidasEsteban | 269 |
@@ -2432,7 +2432,7 @@
 | 484 |  [slick](https://github.com/kenwheeler/slick) | the last carousel you&#39;ll ever need | kenwheeler | 27780 |
 | 485 |  [web-archives](https://github.com/dessant/web-archives) | Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari | dessant | 681 |
 | 486 |  [passprotect-chrome](https://github.com/OktaSecurityLabs/passprotect-chrome) | A simple Chrome extension to help you stop using bad passwords | OktaSecurityLabs | 39 |
-| 487 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 157394 |
+| 487 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 157395 |
 | 488 |  [elFinder](https://github.com/Studio-42/elFinder) | 📁 Open-source file manager for web, written in JavaScript using jQuery and jQuery UI | Studio-42 | 4371 |
 | 489 |  [react-desktop](https://github.com/gabrielbull/react-desktop) | React UI Components for macOS High Sierra and Windows 10 | gabrielbull | 9423 |
 | 490 |  [TitleNotifier.js](https://github.com/roshiro/TitleNotifier.js) | 👋 Lightweight (&amp;lt; 3kb), dependency-free javascript library to dynamically show the number of unread notifications in your webpage title through a simple API. | roshiro | 384 |
@@ -2449,7 +2449,7 @@
 | 501 |  [signale](https://github.com/klaudiosinani/signale) | Highly configurable logging utility | klaudiosinani | 8740 |
 | 502 |  [oorja](https://github.com/akshaykmr/oorja) | [archived] effortless video-voice chat with realtime collaborative features. extensible using react components 🙌 | akshaykmr | 278 |
 | 503 |  [dropzone](https://github.com/dropzone/dropzone) | Dropzone is an easy to use drag&#39;n&#39;drop library. It supports image previews and shows nice progress bars. | dropzone | 17030 |
-| 504 |  [project-guidelines](https://github.com/elsewhencode/project-guidelines) | A set of best practices for JavaScript projects | elsewhencode | 28338 |
+| 504 |  [project-guidelines](https://github.com/elsewhencode/project-guidelines) | A set of best practices for JavaScript projects | elsewhencode | 28339 |
 | 505 |  [front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) | 2018 edition of our front-end development handbook | FrontendMasters | 4161 |
 | 506 |  [exodify](https://github.com/FacettsOpen/exodify) | Wonder how much an app is tracking you? Now you can see it from within the Google Play web interface thanks to ExodusPrivacy. | FacettsOpen | 59 |
 | 507 |  [dimeshift](https://github.com/jeka-kiselyov/dimeshift) | :moneybag::moneybag::moneybag: the easiest way to track your expenses. Free. Open-source. Node.js | jeka-kiselyov | 187 |
@@ -2462,7 +2462,7 @@
 | 514 |  [money-tracker](https://github.com/ayastreb/money-tracker) | :moneybag: Personal finances tracking web app | ayastreb | 765 |
 | 515 |  [OwlCarousel2](https://github.com/OwlCarousel2/OwlCarousel2) | DEPRECATED jQuery Responsive Carousel. | OwlCarousel2 | 7744 |
 | 516 |  [hotel](https://github.com/typicode/hotel) | 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains | typicode | 9858 |
-| 517 |  [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) | 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack. | verekia | 19504 |
+| 517 |  [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) | 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack. | verekia | 19505 |
 | 518 |  [HackMyResume](https://github.com/hacksalot/HackMyResume) | Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon. | hacksalot | 9128 |
 | 519 |  [tldr.jsx](https://github.com/ostera/tldr.jsx) | 📚 A Reactive web client for tldr-pages | ostera | 1534 |
 | 520 |  [git-cheatsheet](https://github.com/ndp/git-cheatsheet) | Interactive cheatsheet, visualization of git. | ndp | 295 |
@@ -2481,7 +2481,7 @@
 | 533 |  [marko](https://github.com/marko-js/marko) | A declarative, HTML-based language that makes building web apps fun | marko-js | 12019 |
 | 534 |  [uppy](https://github.com/transloadit/uppy) | The next open source file uploader for web browsers :dog: | transloadit | 26212 |
 | 535 |  [pattern-library](https://github.com/dequelabs/pattern-library) | Deque pattern library | dequelabs | 116 |
-| 536 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs | 30-seconds | 105888 |
+| 536 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs | 30-seconds | 105889 |
 | 537 |  [githunt](https://github.com/kamranahmedse/githunt) | Hunt the most starred projects on any date on GitHub | kamranahmedse | 2447 |
 | 538 |  [pdfmake](https://github.com/bpampuch/pdfmake) | Client/server side PDF printing in pure JavaScript | bpampuch | 10536 |
 | 539 |  [ticketly](https://github.com/amnersaucedososa/ticketly) |  | amnersaucedososa | 41 |
@@ -2520,7 +2520,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [ASL_to_English](https://github.com/priiyaanjaalii0611/ASL_to_English) | Reads your hand signs and translates them to English words using Tensorflow object detection API | priiyaanjaalii0611 | 705 |
-| 2 |  [animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch) | PyTorch implementation of AnimeGANv2 | bryandlee | 3957 |
+| 2 |  [animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch) | PyTorch implementation of AnimeGANv2 | bryandlee | 3958 |
 | 3 |  [The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) | This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Python, and Java. | AkashSingh3031 | 8541 |
 | 4 |  [fastpages](https://github.com/fastai/fastpages) | An easy to use blogging platform, with enhanced support for Jupyter Notebooks. | fastai | 3438 |
 | 5 |  [ar-browser-sudoku](https://github.com/atomic14/ar-browser-sudoku) | Solving Sudoku Puzzles in the Browser Using Augmented Reality | atomic14 | 112 |
@@ -2613,7 +2613,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) | Community driven roadmaps, articles and resources for developers | kamranahmedse | 2062 |
-| 2 |  [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) | A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. | h5bp | 56005 |
+| 2 |  [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) | A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. | h5bp | 56004 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -2802,11 +2802,11 @@
 | 150 |  [flutter-styleguide](https://github.com/fluttercommunity/flutter-styleguide) | Flutter Style Guide. Suggested styles and best practices for teams using Flutter. | fluttercommunity | 39 |
 | 151 |  [community](https://github.com/fluttercommunity/community) | Flutter Community - A central place for community made Flutter content. | fluttercommunity | 1329 |
 | 152 |  [lists](https://github.com/jnv/lists) | The definitive list of lists (of lists) curated on GitHub and elsewhere | jnv | 8630 |
-| 153 |  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | :zap: Delightful Node.js packages and resources | sindresorhus | 48550 |
+| 153 |  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | :zap: Delightful Node.js packages and resources | sindresorhus | 48551 |
 | 154 |  [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) | Learn to Code While Building Apps - The Complete Flutter Development Bootcamp | londonappbrewery | 9275 |
 | 155 |  [awesome-jamstack](https://github.com/BolajiAyodeji/awesome-jamstack) | :notebook_with_decorative_cover: Curated list of resources: books, videos, articles, speaker decks, tools about using the Jamstack. | BolajiAyodeji | 141 |
 | 156 |  [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) | Get a free 1Password Teams membership for your open source project | 1Password | 1295 |
-| 157 |  [javascript-questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations :sparkles: | lydiahallie | 50746 |
+| 157 |  [javascript-questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations :sparkles: | lydiahallie | 50747 |
 | 158 |  [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) | Style your readme using CSS with this simple trick | sindresorhus | 4922 |
 | 159 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 7461 |
 | 160 |  [awesome-v](https://github.com/vlang/awesome-v) | A curated list of awesome V frameworks, libraries, software and resources. | vlang | 1439 |
@@ -2821,7 +2821,7 @@
 | 169 |  [awesome-ios-animation](https://github.com/ameizi/awesome-ios-animation) | A curated list of awesome iOS animation, including Objective-C and Swift libraries | ameizi | 5059 |
 | 170 |  [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) | Utility for configuring Windows 10 built-in Defender antivirus settings. | AndyFul | 832 |
 | 171 |  [made-in-colombia](https://github.com/IonicaBizau/made-in-colombia) | 🇨🇴 A list of cool projects made in Colombia | IonicaBizau | 17 |
-| 172 |  [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | A list of awesome beginners-friendly projects. | MunGell | 46676 |
+| 172 |  [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | A list of awesome beginners-friendly projects. | MunGell | 46677 |
 | 173 |  [awesome-eslint](https://github.com/dustinspecker/awesome-eslint) | A list of awesome ESLint plugins, configs, etc. | dustinspecker | 3379 |
 | 174 |  [bogota](https://github.com/nodeschool/bogota) | NodeSchool Bogota | nodeschool | 13 |
 | 175 |  [awesome-dart](https://github.com/yissachar/awesome-dart) | A curated list of awesome Dart frameworks, libraries, and software | yissachar | 2039 |
@@ -2852,8 +2852,8 @@
 | 200 |  [blacklist](https://github.com/anudeepND/blacklist) | Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒 | anudeepND | 865 |
 | 201 |  [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) | A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore | arialdomartini | 13228 |
 | 202 |  [graphql-landscape](https://github.com/graphql/graphql-landscape) | 🌄Landscape for the GraphQL ecosystem | graphql | 268 |
-| 203 |  [awesome-javascript](https://github.com/sorrycc/awesome-javascript) | 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. | sorrycc | 29571 |
-| 204 |  [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: | DopplerHQ | 52217 |
+| 203 |  [awesome-javascript](https://github.com/sorrycc/awesome-javascript) | 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. | sorrycc | 29572 |
+| 204 |  [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: | DopplerHQ | 52218 |
 | 205 |  [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) | This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG). | trimstray | 9072 |
 | 206 |  [horizon-docs](https://github.com/rethinkdb/horizon-docs) |  | rethinkdb | 24 |
 | 207 |  [CloneApp](https://github.com/builtbybel/CloneApp) | 📦Easily Backup &amp; Restore Windows Programs Settings | builtbybel | 302 |
@@ -2870,10 +2870,10 @@
 | 218 |  [awesome-graphql](https://github.com/chentsulin/awesome-graphql) | Awesome list of GraphQL | chentsulin | 13782 |
 | 219 |  [opencollective](https://github.com/opencollective/opencollective) | We&#39;re tracking all our Issues, RFCs and a few other documents in this repository. | opencollective | 1680 |
 | 220 |  [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) | An ultra-simplified explanation to design patterns | kamranahmedse | 35639 |
-| 221 |  [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials | practical-tutorials | 84290 |
-| 222 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 85394 |
+| 221 |  [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials | practical-tutorials | 84291 |
+| 222 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 85396 |
 | 223 |  [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | binhnguyennus | 42506 |
-| 224 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 123035 |
+| 224 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 123036 |
 | 225 |  [trackerslist](https://github.com/ngosang/trackerslist) | Updated list of public BitTorrent trackers | ngosang | 37206 |
 | 226 |  [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) | 📢 Various README templates &amp; tips on writing high-quality documentation that people want to read. | kylelobo | 4809 |
 | 227 |  [SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) | SwiftUI 2.0 Cheat Sheet | SimpleBoilerplates | 3759 |
@@ -2902,13 +2902,13 @@
 | 250 |  [photopea](https://github.com/photopea/photopea) | Photopea is online image editor | photopea | 5632 |
 | 251 |  [MaterialDesign](https://github.com/Templarian/MaterialDesign) | ✒7000+ Material Design Icons from the Community | Templarian | 10408 |
 | 252 |  [lunacy-docs](https://github.com/icons8/lunacy-docs) | Documentation for Lunacy, Graphic Design Software with built-in assets | icons8 | 268 |
-| 253 |  [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series on JavaScript. @YDKJS on twitter. | getify | 162548 |
+| 253 |  [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series on JavaScript. @YDKJS on twitter. | getify | 162549 |
 | 254 |  [awesome-parcel](https://github.com/parcel-bundler/awesome-parcel) | 🔗 A curated list of awesome Parcel resources, libraries, tools and boilerplates | parcel-bundler | 1367 |
 | 255 |  [cdnjs](https://github.com/cdnjs/cdnjs) | 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers. | cdnjs | 9740 |
 | 256 |  [frontend-guidelines](https://github.com/bendc/frontend-guidelines) | Some HTML, CSS and JS best practices. | bendc | 8126 |
 | 257 |  [fig-standards](https://github.com/php-fig/fig-standards) | Standards either proposed or approved by the Framework Interop Group | php-fig | 12390 |
 | 258 |  [5minutos_laravel](https://github.com/jatubio/5minutos_laravel) | Laravel en 5 minutos (Notas rápidas) | jatubio | 164 |
-| 259 |  [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 100 Days of ML Coding | Avik-Jain | 39246 |
+| 259 |  [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 100 Days of ML Coding | Avik-Jain | 39247 |
 | 260 |  [awesome-indie](https://github.com/mezod/awesome-indie) | Resources for independent developers to make money | mezod | 8109 |
 | 261 |  [graphql-schema-language-cheat-sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet) | GraphQL Shorthand Notation Cheat Sheet | sogko | 1314 |
 | 262 |  [100-days-of-code](https://github.com/kallaway/100-days-of-code) | Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available) | kallaway | 6219 |
@@ -2944,20 +2944,20 @@
 | 292 |  [guide](https://github.com/freeCodeCamp/guide) | A collection of easy-to-understand guides to programming tools | freeCodeCamp | 2119 |
 | 293 |  [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | firstcontributions | 30650 |
 | 294 |  [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. | awesomedata | 52323 |
-| 295 |  [Projects](https://github.com/karan/Projects) | :page_with_curl: A list of practical projects that anyone can solve in any programming language. | karan | 40705 |
+| 295 |  [Projects](https://github.com/karan/Projects) | :page_with_curl: A list of practical projects that anyone can solve in any programming language. | karan | 40706 |
 | 296 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 241595 |
 | 297 |  [javascript-style-guide](https://github.com/paolocarrasco/javascript-style-guide) | Guía de Estilo para programar con JavaScript, en español. Apoyo es bienvenido :) | paolocarrasco | 396 |
-| 298 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 231035 |
+| 298 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 231036 |
 | 299 |  [Resources-Front-End-Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner) | 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 🇨🇦 &amp; 🇫🇷) | thedaviddias | 3661 |
 | 300 |  [estimation-checklist](https://github.com/togakangaroo/estimation-checklist) | A simple collaborative checklist for questions to always ask during estimation of projects or large-grained features | togakangaroo | 68 |
 | 301 |  [Front-End-Checklist-ES](https://github.com/eoasakura/Front-End-Checklist-ES) | 🗂 El checklist de Front-End para sitios modernos y desarrolladores meticulosos | eoasakura | 103 |
-| 302 |  [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers | thedaviddias | 63315 |
+| 302 |  [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers | thedaviddias | 63316 |
 | 303 |  [checklist](https://github.com/drublic/checklist) | 📋 A Frontend Checklist for Websites | drublic | 276 |
-| 304 |  [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers | Hack-with-Github | 59534 |
+| 304 |  [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers | Hack-with-Github | 59535 |
 | 305 |  [worldcup](https://github.com/openfootball/worldcup) | Free open public domain football data for the World Cup (incl. Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers) | openfootball | 524 |
-| 306 |  [awesome-courses](https://github.com/prakhar1989/awesome-courses) | :books: List of awesome university courses for learning Computer Science! | prakhar1989 | 44590 |
+| 306 |  [awesome-courses](https://github.com/prakhar1989/awesome-courses) | :books: List of awesome university courses for learning Computer Science! | prakhar1989 | 44591 |
 | 307 |  [sql-server-samples](https://github.com/microsoft/sql-server-samples) | Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge | microsoft | 8134 |
-| 308 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 259037 |
+| 308 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 259038 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -3083,7 +3083,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [h8mail](https://github.com/khast3x/h8mail) | Email OSINT &amp; Password breach hunting tool, locally or using premium services. Supports chasing down related email | khast3x | 2985 |
-| 2 |  [thonny](https://github.com/thonny/thonny) | Python IDE for beginners | thonny | 2118 |
+| 2 |  [thonny](https://github.com/thonny/thonny) | Python IDE for beginners | thonny | 2119 |
 | 3 |  [Few-Shot-Patch-Based-Training](https://github.com/nicolai256/Few-Shot-Patch-Based-Training) | a fork implementation of SIGGRAPH 2020 paper Interactive Video Stylization Using Few-Shot Patch-Based Training | nicolai256 | 87 |
 | 4 |  [BlazeRAT](https://github.com/LimerBoy/BlazeRAT) | :fire: Control your Linux home computer with telegram bot. | LimerBoy | 138 |
 | 5 |  [ban_youtube_bots](https://github.com/nategentile/ban_youtube_bots) | Dirty and fast script for removing spam comments using Google Youtube API | nategentile | 76 |
@@ -3110,14 +3110,14 @@
 | 26 |  [Reticulum](https://github.com/markqvist/Reticulum) | The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between. | markqvist | 1022 |
 | 27 |  [waka-readme](https://github.com/athul/waka-readme) | Wakatime Weekly Metrics on your Profile Readme. | athul | 952 |
 | 28 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 74939 |
-| 29 |  [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers | Ebazhanov | 21439 |
+| 29 |  [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers | Ebazhanov | 21440 |
 | 30 |  [edgedb](https://github.com/edgedb/edgedb) | A graph-relational database with declarative schema, built-in migration system, and a next-generation query language | edgedb | 9871 |
-| 31 |  [transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. | huggingface | 76786 |
+| 31 |  [transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. | huggingface | 76787 |
 | 32 |  [os-migrate](https://github.com/os-migrate/os-migrate) | OpenStack tenant migration tools | os-migrate | 41 |
 | 33 |  [BlendGAN](https://github.com/onion-liu/BlendGAN) | Official PyTorch implementation of &#34;BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation&#34; (NeurIPS 2021) | onion-liu | 461 |
 | 34 |  [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. | TencentARC | 25265 |
 | 35 |  [scanyourpdf](https://github.com/baicunko/scanyourpdf) | Repository for the Scan Your Pdf community | baicunko | 495 |
-| 36 |  [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes | yt-dlp | 36728 |
+| 36 |  [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes | yt-dlp | 36731 |
 | 37 |  [dep-scan](https://github.com/AppThreat/dep-scan) | Fully open-source security audit for project dependencies based on known vulnerabilities and advisories. Supports both local repos and container images. Integrates with various CI environments such as Azure Pipelines, CircleCI, Google CloudBuild. No server required! | AppThreat | 299 |
 | 38 |  [azure-pipeline-templates](https://github.com/asottile/azure-pipeline-templates) | templates for azure pipelines | asottile | 43 |
 | 39 |  [owasp-mastg](https://github.com/OWASP/owasp-mastg) | The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS). | OWASP | 9725 |
@@ -3125,7 +3125,7 @@
 | 41 |  [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! | PeterL1n | 6469 |
 | 42 |  [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Google Chromium, sans integration with Google | ungoogled-software | 15761 |
 | 43 |  [openreplay](https://github.com/openreplay/openreplay) | :tv: OpenReplay is developer-friendly, open-source session replay. | openreplay | 6602 |
-| 44 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 221459 |
+| 44 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 221461 |
 | 45 |  [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions | bregman-arie | 34920 |
 | 46 |  [jina](https://github.com/jina-ai/jina) | 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native | jina-ai | 16967 |
 | 47 |  [mvt](https://github.com/mvt-project/mvt) | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. | mvt-project | 8241 |
@@ -3148,7 +3148,7 @@
 | 64 |  [youtube-dl](https://github.com/lrvick/youtube-dl) | RIAA: Please go die in a fire. | lrvick | 626 |
 | 65 |  [not-on-my-shift](https://github.com/socram8888/not-on-my-shift) | Not on my shift! domain block list | socram8888 | 24 |
 | 66 |  [openeducat_erp](https://github.com/openeducat/openeducat_erp) | Comprehensive Open Source ERP for Educational Institutes | openeducat | 454 |
-| 67 |  [apprise](https://github.com/caronc/apprise) | Apprise - Push Notifications that work with just about every platform! | caronc | 7041 |
+| 67 |  [apprise](https://github.com/caronc/apprise) | Apprise - Push Notifications that work with just about every platform! | caronc | 7042 |
 | 68 |  [fairseq](https://github.com/facebookresearch/fairseq) | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. | facebookresearch | 20396 |
 | 69 |  [python-cheatsheet](https://github.com/gto76/python-cheatsheet) | Comprehensive Python Cheatsheet | gto76 | 30885 |
 | 70 |  [diagrams](https://github.com/mingrammer/diagrams) | :art: Diagram as Code for prototyping cloud system architectures | mingrammer | 27495 |
@@ -3194,7 +3194,7 @@
 | 110 |  [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) | Guide to securing and improving privacy on macOS | drduh | 19781 |
 | 111 |  [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) | Short Python code snippets for all your development needs | 30-seconds | 8608 |
 | 112 |  [PyFunceble](https://github.com/funilrys/PyFunceble) | The tool to check the availability or syntax of domain, IP or URL. | funilrys | 239 |
-| 113 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 115996 |
+| 113 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 115997 |
 | 114 |  [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) | A cross platform front-end GUI of the popular youtube-dl written in wxPython. | MrS0m30n3 | 8660 |
 | 115 |  [punctuation](https://github.com/adamjcalhoun/punctuation) | Take a set of text and output a picture of the text | adamjcalhoun | 168 |
 | 116 |  [core](https://github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | home-assistant | 56875 |
@@ -3513,7 +3513,7 @@
 | 52 |  [soketi](https://github.com/soketi/soketi) | Just another simple, fast, and resilient open-source WebSockets server. 📣 | soketi | 3194 |
 | 53 |  [vscode-database-client](https://github.com/cweijan/vscode-database-client) | Database Client For Visual Studio Code | cweijan | 1998 |
 | 54 |  [ow](https://github.com/sindresorhus/ow) | Function argument validation for humans | sindresorhus | 3671 |
-| 55 |  [zod](https://github.com/colinhacks/zod) | TypeScript-first schema validation with static type inference | colinhacks | 16012 |
+| 55 |  [zod](https://github.com/colinhacks/zod) | TypeScript-first schema validation with static type inference | colinhacks | 16013 |
 | 56 |  [vitesse](https://github.com/antfu/vitesse) | 🏕 Opinionated Vite + Vue Starter Template | antfu | 6590 |
 | 57 |  [design-system](https://github.com/innovaccer/design-system) | Masala Design System (MDS) is an open-source design system built at Innovaccer. This is a simple and customisable component library to build faster, beautiful, and more accessible React applications on the guidelines and principles of Masala Design System. | innovaccer | 66 |
 | 58 |  [amplication](https://github.com/amplication/amplication) | Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks. | amplication | 9112 |
@@ -3597,7 +3597,7 @@
 | 136 |  [charticulator](https://github.com/microsoft/charticulator) | Interactive Layout-Aware Construction of Bespoke Charts | microsoft | 773 |
 | 137 |  [piscina](https://github.com/piscinajs/piscina) | A fast, efficient Node.js Worker Thread Pool implementation | piscinajs | 2935 |
 | 138 |  [task-clean-architecture-nestjs](https://github.com/BrangyCastro/task-clean-architecture-nestjs) |  | BrangyCastro | 2 |
-| 139 |  [npkill](https://github.com/voidcosmos/npkill) | List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹 | voidcosmos | 6593 |
+| 139 |  [npkill](https://github.com/voidcosmos/npkill) | List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹 | voidcosmos | 6594 |
 | 140 |  [Equa11y](https://github.com/oslabs-beta/Equa11y) | A stream-lined command line tool for developers to easily run accessibility testing locally through axe-core and puppeteer. | oslabs-beta | 204 |
 | 141 |  [design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript) | Design Pattern Examples in TypeScript | RefactoringGuru | 636 |
 | 142 |  [synopsis](https://github.com/saasify-sh/synopsis) | Automagical summarization for webpages and articles. 🔥 | saasify-sh | 41 |
@@ -3610,7 +3610,7 @@
 | 149 |  [oak-mysql-restapi](https://github.com/FaztWeb/oak-mysql-restapi) | A Rest API using Oak Deno Framework and mysql | FaztWeb | 12 |
 | 150 |  [design-patterns-in-typescript](https://github.com/gztchan/design-patterns-in-typescript) | :orange_book: Design Patterns in TypeScript | gztchan | 308 |
 | 151 |  [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) | Self-hosted YouTube downloader built on Material Design | Tzahi12345 | 1719 |
-| 152 |  [Kap](https://github.com/wulkano/Kap) | An open-source screen recorder built with web technology | wulkano | 15997 |
+| 152 |  [Kap](https://github.com/wulkano/Kap) | An open-source screen recorder built with web technology | wulkano | 15998 |
 | 153 |  [mockoon](https://github.com/mockoon/mockoon) | Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source. | mockoon | 4424 |
 | 154 |  [ghat](https://github.com/fregante/ghat) | 🛕 Reuse GitHub Actions workflows across repositories | fregante | 257 |
 | 155 |  [timebomb](https://github.com/evinism/timebomb) | A cross-lang library for making sure devs get to solving old important TODOs | evinism | 66 |
@@ -3685,7 +3685,7 @@
 | 224 |  [graphql-editor](https://github.com/graphql-editor/graphql-editor) | 📺 Visual Editor &amp; GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that! | graphql-editor | 5727 |
 | 225 |  [opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) | OpenTelemetry JavaScript Client | open-telemetry | 1681 |
 | 226 |  [opentracing-javascript](https://github.com/opentracing/opentracing-javascript) | OpenTracing API for Javascript (both Node and browser). 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163 | opentracing | 1088 |
-| 227 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | kamranahmedse | 222193 |
+| 227 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | kamranahmedse | 222194 |
 | 228 |  [typeorm-crud-restapi](https://github.com/FaztWeb/typeorm-crud-restapi) |  | FaztWeb | 26 |
 | 229 |  [typescript-jwt-restapi](https://github.com/FaztWeb/typescript-jwt-restapi) | A simple JWT auth example with typescript | FaztWeb | 33 |
 | 230 |  [rxdb](https://github.com/pubkey/rxdb) | A fast, offline-first, reactive database for JavaScript Applications | pubkey | 18565 |
@@ -3709,7 +3709,7 @@
 | 248 |  [directus](https://github.com/directus/directus) | The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database. | directus | 19077 |
 | 249 |  [universal-language-detector](https://github.com/UnlyEd/universal-language-detector) | Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js | UnlyEd | 70 |
 | 250 |  [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) | Frontend for HospitalRun | HospitalRun | 6701 |
-| 251 |  [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | Eugeny | 41676 |
+| 251 |  [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | Eugeny | 41677 |
 | 252 |  [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) | :key: Cross-Platform Passwords &amp; Secrets Vault | buttercup | 3950 |
 | 253 |  [compodoc](https://github.com/compodoc/compodoc) | :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest &amp; Stencil application | compodoc | 3746 |
 | 254 |  [botpress](https://github.com/botpress/botpress) | 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect &amp; deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc). | botpress | 9987 |
@@ -3718,7 +3718,7 @@
 | 257 |  [deepstream.io](https://github.com/deepstreamIO/deepstream.io) | deepstream.io server | deepstreamIO | 7029 |
 | 258 |  [joplin](https://github.com/laurent22/joplin) | Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS. | laurent22 | 33587 |
 | 259 |  [bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) | :star: A place to find the best components to build amazing web applications. The best of JavaScript! | bestofjs | 2046 |
-| 260 |  [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first. | RocketChat | 34398 |
+| 260 |  [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first. | RocketChat | 34397 |
 | 261 |  [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers | yangshun | 83743 |
 | 262 |  [clients](https://github.com/bitwarden/clients) | Bitwarden client applications (web, browser extension, desktop, and cli) | bitwarden | 5152 |
 | 263 |  [tslint-config-prettier](https://github.com/prettier/tslint-config-prettier) | Use TSLint with Prettier without any conflict | prettier | 1225 |
@@ -3746,14 +3746,14 @@
 | 285 |  [api-platform](https://github.com/api-platform/api-platform) | Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. | api-platform | 7715 |
 | 286 |  [nativefier](https://github.com/nativefier/nativefier) | Make any web page a desktop application | nativefier | 32447 |
 | 287 |  [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) | Angular powered Bootstrap | ng-bootstrap | 8031 |
-| 288 |  [ant-design-pro](https://github.com/ant-design/ant-design-pro) | 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! | ant-design | 33408 |
+| 288 |  [ant-design-pro](https://github.com/ant-design/ant-design-pro) | 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! | ant-design | 33409 |
 | 289 |  [howtographql](https://github.com/howtographql/howtographql) | The Fullstack Tutorial for GraphQL | howtographql | 8419 |
 | 290 |  [notific8](https://github.com/pynklynn/notific8) | Flexible and themeable notification plug-in for JavaScript. The plug-in contains multiple themes, each offering a built in selection of colors and Sass mixins to easily create custom colors to match your site&#39;s color scheme. | pynklynn | 123 |
 | 291 |  [github-contributions-canvas](https://github.com/sallar/github-contributions-canvas) | A tool for drawing a heat-map of Github contributions on HTML Canvas | sallar | 133 |
 | 292 |  [realworld](https://github.com/gothinkster/realworld) | &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | gothinkster | 71136 |
 | 293 |  [autocomplete](https://github.com/algolia/autocomplete) | 🔮 Fast and full-featured autocomplete library | algolia | 2298 |
 | 294 |  [ngx-admin](https://github.com/akveo/ngx-admin) | Customizable admin dashboard template based on Angular 10+ | akveo | 24137 |
-| 295 |  [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free. | freeCodeCamp | 358557 |
+| 295 |  [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free. | freeCodeCamp | 358556 |
 
 **[⬆ Back to Index](#-contents)**
 
