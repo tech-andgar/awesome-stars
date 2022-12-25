@@ -42,7 +42,7 @@ jobs:
       -
         name: 'Install Package'
         if: steps.cache.outputs.cache-hit != 'true'
-        run: 'yarn install abhijithvijayan/stargazed'
+        run: 'yarn add abhijithvijayan/stargazed'
       -
         name: 'Update Repo'
         env:
