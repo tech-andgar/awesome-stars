@@ -42,9 +42,9 @@ jobs:
       -
         name: 'Install Package'
         if: steps.cache.outputs.cache-hit != 'true'
-        run: 'yarn add abhijithvijayan/stargazed'
+        run: 'yarn add https://github.com/abhijithvijayan/stargazed'
       -
         name: 'Update Repo'
         env:
           GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-        run: 'npx github:abhijithvijayan/stargazed --username  "andgar2010" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
+        run: 'yarn exec stargazed --username  "andgar2010" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
