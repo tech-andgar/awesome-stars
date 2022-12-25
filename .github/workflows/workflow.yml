@@ -30,6 +30,5 @@ jobs:
         env:
           GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
         run: |
-          npx github:abhijithvijayan/stargazed -v
-          y
+          npx -y github:abhijithvijayan/stargazed -v
           'npx github:abhijithvijayan/stargazed --username  "andgar2010" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
