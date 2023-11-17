@@ -1,6 +1,7 @@
 name: 'Update by stargazed'
 # This workflow runs at 00:30 everyday
 on:
+  workflow_dispatch:
   schedule:
     -
       cron: '30 0 * * *'
