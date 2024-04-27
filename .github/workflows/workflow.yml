@@ -13,13 +13,13 @@ jobs:
     steps:
       -
         name: 'Use GitHub Actions'
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
           
       -
-        name: 'Use Node.js 18.x'
-        uses: actions/setup-node@v3
+        name: 'Use Node.js 22.x'
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 22
 
       -
         name: 'Install corepack'
@@ -37,4 +37,4 @@ jobs:
         name: 'Update Repo'
         env:
           GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-        run: 'yarn exec stargazed --username  "andgar2010" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
+        run: 'yarn exec stargazed --username  "tech-andgar" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
